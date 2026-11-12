@@ -1,0 +1,11 @@
+{
+  "user": "eknatha",
+  "tools": [
+    {"name": "kubedrill",    "repo": "eknatha/KubeLab",      "url": "https://kubedrill.eknathalabs.com",    "purpose": "Kubernetes practice lab",          "default": "Running"},
+    {"name": "chaoslab",     "repo": "eknatha/chaoslab",     "url": "https://chaoslab.eknathalabs.com",     "purpose": "chaos engineering, beyond k8s",    "default": "Running"},
+    {"name": "marga",        "repo": "eknatha/marga",        "url": "https://marga.eknathalabs.com",        "purpose": "DevOps / cloud / SRE academy",     "default": "Running"},
+    {"name": "bimba",        "repo": "eknatha/bimba",        "url": "https://bimba.eknathalabs.com",        "purpose": "offline image toolkit",            "default": "Running"},
+    {"name": "resumelytics", "repo": "eknatha/resumelytics", "url": "https://resumelytics.eknathalabs.com", "purpose": "ATS resume analyzer",              "default": "Running"},
+    {"name": "hopbyhop",     "repo": "eknatha/hopbyhop",     "url": "https://hopbyhop.eknathalabs.com",     "purpose": "packet-journey explorer",          "default": "Pending"}
+  ]
+}

@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Eknatha Reddy Puli — Platform Engineer and SRE. Animated cluster where a pod is killed by chaos and self-heals." width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Eknatha Reddy Puli — Platform Engineer and SRE. Animated cluster where a pod is killed by chaos and self-heals." src="./assets/hero-dark.svg" width="100%">
+</picture>
 </div>
 
 <p align="center">
@@ -14,7 +18,11 @@ I build and run reliable cloud platforms: Kubernetes, OpenStack, Terraform, hybr
 
 ## `kubectl get pods -n eknathalabs`
 
-<img src="./assets/terminal.svg" alt="EknathaLabs tools shown as running Kubernetes pods" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
+  <img alt="EknathaLabs tools as pods with live status, age and 30-day commit activity" src="./assets/terminal-dark.svg" width="100%">
+</picture>
 
 | Tool | What it does | |
 |---|---|---|
@@ -24,6 +32,16 @@ I build and run reliable cloud platforms: Kubernetes, OpenStack, Terraform, hybr
 | **Bimba** | Offline image toolkit | [bimba.eknathalabs.com](https://bimba.eknathalabs.com) |
 | **Resumelytics** | ATS resume analyzer, privacy-first | [resumelytics.eknathalabs.com](https://resumelytics.eknathalabs.com) |
 | **Hop by Hop** | Network packet-journey explorer (coming soon) | [hopbyhop.eknathalabs.com](https://hopbyhop.eknathalabs.com) |
+
+---
+
+## Shipping rhythm
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pods-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/pods-light.svg">
+  <img alt="Contribution calendar drawn as a field of pods, one pod per day" src="./assets/pods-dark.svg" width="100%">
+</picture>
 
 ---
 
@@ -43,7 +61,11 @@ Real incident patterns, written down so the next on-call has a head start.
 
 ## `kubectl rollout history deployment/eknatha`
 
-<img src="./assets/rollout.svg" alt="Career rollout history: RCS and Genisys, Ericsson, Subex, AT&T Xandr Microsoft, Sterlite, IBM" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rollout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/rollout-light.svg">
+  <img alt="Career rollout history: RCS and Genisys, Ericsson, Subex, AT&T Xandr Microsoft, Sterlite, IBM" src="./assets/rollout-dark.svg" width="100%">
+</picture>
 
 ---
 
@@ -57,4 +79,8 @@ Real incident patterns, written down so the next on-call has a head start.
 | Systems | Linux · virtualization · production support |
 | Automation | Python · Shell · GitHub Actions |
 
-<img src="./assets/footer.svg" alt="Heartbeat line. Reliability is a feature. Ship it boring." width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+  <img alt="Heartbeat line. Reliability is a feature. Ship it boring." src="./assets/footer-dark.svg" width="100%">
+</picture>

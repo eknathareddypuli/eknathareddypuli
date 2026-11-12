@@ -1,0 +1,48 @@
+{
+ "tools": {
+  "kubedrill": {
+   "name": "kubedrill",
+   "purpose": "Kubernetes practice lab",
+   "status": "Running",
+   "age": "-",
+   "restarts": "-"
+  },
+  "chaoslab": {
+   "name": "chaoslab",
+   "purpose": "chaos engineering, beyond k8s",
+   "status": "Running",
+   "age": "-",
+   "restarts": "-"
+  },
+  "marga": {
+   "name": "marga",
+   "purpose": "DevOps / cloud / SRE academy",
+   "status": "Running",
+   "age": "-",
+   "restarts": "-"
+  },
+  "bimba": {
+   "name": "bimba",
+   "purpose": "offline image toolkit",
+   "status": "Running",
+   "age": "-",
+   "restarts": "-"
+  },
+  "resumelytics": {
+   "name": "resumelytics",
+   "purpose": "ATS resume analyzer",
+   "status": "Running",
+   "age": "-",
+   "restarts": "-"
+  },
+  "hopbyhop": {
+   "name": "hopbyhop",
+   "purpose": "packet-journey explorer",
+   "status": "Pending",
+   "age": "-",
+   "restarts": "-"
+  }
+ },
+ "synced": "never",
+ "live": false
+}
