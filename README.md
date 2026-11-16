@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/eknathareddypuli"><b>LinkedIn</b></a>
 </p>
 
-I build and run reliable cloud platforms: Kubernetes, OpenStack, Terraform, hybrid and multi-cloud (AWS + Azure). I also ship free, offline-first tools for engineers under **EknathaLabs**. No ads, no sign-ups, no tracking.
+I build and run reliable cloud platforms: Kubernetes, OpenStack, Terraform, hybrid and multi-cloud (AWS + Azure). I also ship free, offline-first tools for Everyone under **EknathaLabs**. No ads, no sign-ups, no tracking.
 
 ---
 
